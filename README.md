@@ -21,7 +21,7 @@ The framework is composed of three main stages:
     - A verifier agent evaluates the logical consistency and correctness of reasoning steps.
     - Answers are aggregated based on a weighted voting mechanism using confidence scores from the verifier.
 
-![](TAGS\pics\overview.png)
+![](TAGS/pics/overview.png)
 
 ---
 
